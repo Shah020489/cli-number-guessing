@@ -1,5 +1,5 @@
 {
-  "name": "@shakeel-ahmed/cli-number-guessing",
+  "name": "@shakeelahmed/cli-number-guessing",
   "version": "2.0.0",
   "description": "This files contains number guessing game.",
   "main": "index.js",
